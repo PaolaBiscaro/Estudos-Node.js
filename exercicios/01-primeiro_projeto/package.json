@@ -1,0 +1,14 @@
+{
+  "name": "01-my_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "echo \"Ola mundo!\" && exit 1"
+  },
+  "author": "Paola Biscaro",
+  "license": "ISC",
+  "description": "Este é o meu primeiro projeto em node!"
+}
+
+
